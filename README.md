@@ -8,13 +8,3 @@ I am currently in my fourth year of Bachelor of Engineering (Hons) majoring in M
 I always like to keep myself busy wherever I am at home I usually tinker around with arduino. In my spare time I like to go on Lynda.com and do some courses that I find interesting which I think would come in useful. I love learning from other people such as friends because it helps me understand their point of view on approaching problems.
 
 I am extremely lucky to be in a time where there are so many people that motivate and influence me to push my skills to the limit. One of which is Elon Musk as he and his company create many unique technological advances. I wish to learn more about robotics and improve on my understanding on mechatronic systems.
-
-
-
-
-
-
-
-
-
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
